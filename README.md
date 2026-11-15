@@ -1,4 +1,4 @@
-# 🧭 HR Compass — HR Policy RAG Assistant
+# 🧭 PolicyIQ — HR Policy RAG Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -8,7 +8,7 @@
 [](https://hr-compass.streamlit.app/)
 
 
-**HR Compass** is a Retrieval-Augmented Generation (RAG) chatbot that lets
+**PolicyIQ** is a Retrieval-Augmented Generation (RAG) chatbot that lets
 employees ask natural-language questions about company HR policies and get
 accurate, grounded answers — instantly. Upload your HR policy documents
 (PDF/TXT), and HR Compass answers questions **strictly from that content**,
